@@ -1,0 +1,173 @@
+Wed, 2016-06-22 11:23:36 server_ftp.py[line:51] ERROR enter cmd: ls!
+Wed, 2016-06-22 11:42:53 server_ftp.py[line:54] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:15:27 server_ftp.py[line:55] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:36:37 server_ftp.py[line:59] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:39:33 server_ftp.py[line:60] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:40:10 server_ftp.py[line:60] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:43:51 server_ftp.py[line:60] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:44:11 server_ftp.py[line:60] ERROR enter cmd: ls -l!
+Wed, 2016-06-22 12:45:13 server_ftp.py[line:60] ERROR enter cmd: touch test.txt!
+Wed, 2016-06-22 12:47:50 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:47:54 server_ftp.py[line:62] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:48:10 server_ftp.py[line:62] ERROR enter cmd: rm test.txt!
+Wed, 2016-06-22 12:51:41 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:51:44 server_ftp.py[line:62] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:51:55 server_ftp.py[line:62] ERROR enter cmd: ls -l!
+Wed, 2016-06-22 12:52:18 server_ftp.py[line:62] ERROR enter cmd: mkdir a!
+Wed, 2016-06-22 12:52:20 server_ftp.py[line:62] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:52:24 server_ftp.py[line:62] ERROR enter cmd: ls -l!
+Wed, 2016-06-22 12:56:31 server_ftp.py[line:62] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:56:34 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:56:38 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:56:43 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:57:54 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:57:58 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 12:59:23 server_ftp.py[line:62] ERROR enter cmd: ls!
+Wed, 2016-06-22 12:59:26 server_ftp.py[line:62] ERROR enter cmd: pwd!
+Wed, 2016-06-22 13:24:15 server_ftp.py[line:68] ERROR enter cmd: pwd!
+Wed, 2016-06-22 13:24:18 server_ftp.py[line:68] ERROR enter cmd: ls!
+Wed, 2016-06-22 13:25:17 server_ftp.py[line:68] ERROR enter cmd: mkdir a!
+Wed, 2016-06-22 13:25:19 server_ftp.py[line:68] ERROR enter cmd: ls!
+Wed, 2016-06-22 13:25:24 server_ftp.py[line:68] ERROR enter cmd: cd a!
+Wed, 2016-06-22 13:25:27 server_ftp.py[line:68] ERROR enter cmd: ls!
+Wed, 2016-06-22 13:26:58 server_ftp.py[line:70] ERROR enter cmd: ls!
+Wed, 2016-06-22 13:27:02 server_ftp.py[line:70] ERROR enter cmd: cd a!
+Wed, 2016-06-22 13:27:04 server_ftp.py[line:70] ERROR enter cmd: ls!
+Wed, 2016-06-22 13:31:22 server_ftp.py[line:72] ERROR enter cmd: ls!
+Wed, 2016-06-22 13:31:25 server_ftp.py[line:72] ERROR enter cmd: cd a!
+Wed, 2016-06-22 13:54:21 server_ftp.py[line:74] ERROR enter cmd: ls!
+Wed, 2016-06-22 13:56:06 server_ftp.py[line:74] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:00:29 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:01:40 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:03:20 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:04:31 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:04:33 server_ftp.py[line:75] ERROR enter cmd: cda!
+Wed, 2016-06-22 14:11:39 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:11:42 server_ftp.py[line:75] ERROR enter cmd: cda!
+Wed, 2016-06-22 14:11:51 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:11:55 server_ftp.py[line:75] ERROR enter cmd: pwd!
+Wed, 2016-06-22 14:12:05 server_ftp.py[line:75] ERROR enter cmd: pwd!
+Wed, 2016-06-22 14:13:49 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:13:51 server_ftp.py[line:75] ERROR enter cmd: cd a!
+Wed, 2016-06-22 14:13:55 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:13:58 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:15:29 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:28:25 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:28:27 server_ftp.py[line:75] ERROR enter cmd: cd a!
+Wed, 2016-06-22 14:37:54 server_ftp.py[line:75] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:37:56 server_ftp.py[line:75] ERROR enter cmd: cd a!
+Wed, 2016-06-22 14:39:14 server_ftp.py[line:76] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:39:20 server_ftp.py[line:76] ERROR enter cmd: pwd!
+Wed, 2016-06-22 14:43:11 server_ftp.py[line:76] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:47:01 server_ftp.py[line:78] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:47:09 server_ftp.py[line:78] ERROR enter cmd: ls!
+Wed, 2016-06-22 14:47:56 server_ftp.py[line:78] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:01:19 server_ftp.py[line:80] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:01:26 server_ftp.py[line:80] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:01:32 server_ftp.py[line:80] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:03:17 server_ftp.py[line:80] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:03:21 server_ftp.py[line:80] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:03:37 server_ftp.py[line:80] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:03:42 server_ftp.py[line:80] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:03:45 server_ftp.py[line:80] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:09:01 server_ftp.py[line:78] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:13:53 server_ftp.py[line:78] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:14:39 server_ftp.py[line:79] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:14:44 server_ftp.py[line:79] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:23:17 server_ftp.py[line:84] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:23:24 server_ftp.py[line:84] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:23:35 server_ftp.py[line:84] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:23:57 server_ftp.py[line:84] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:25:21 server_ftp.py[line:84] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:25:33 server_ftp.py[line:84] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:25:40 server_ftp.py[line:84] ERROR enter cmd: pws!
+Wed, 2016-06-22 15:25:42 server_ftp.py[line:84] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:34:15 server_ftp.py[line:86] ERROR enter cmd: ls!
+Wed, 2016-06-22 15:34:18 server_ftp.py[line:86] ERROR enter cmd: pwd!
+Wed, 2016-06-22 15:34:54 server_ftp.py[line:86] ERROR enter cmd: ls!
+Wed, 2016-06-22 19:09:02 server_ftp.py[line:89] ERROR enter cmd: ls!
+Wed, 2016-06-22 19:28:15 server_ftp.py[line:89] ERROR enter cmd: ls!
+Wed, 2016-06-22 19:28:19 server_ftp.py[line:89] ERROR enter cmd: pwd!
+Thu, 2016-06-23 11:47:37 server_ftp.py[line:88] ERROR enter cmd: ls!
+Thu, 2016-06-23 11:48:48 server_ftp.py[line:88] ERROR enter cmd: ls!
+Thu, 2016-06-23 11:48:54 server_ftp.py[line:88] ERROR enter cmd: ls!
+Thu, 2016-06-23 11:49:04 server_ftp.py[line:88] ERROR enter cmd: pwd!
+Thu, 2016-06-23 11:49:06 server_ftp.py[line:88] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:25:55 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:26:00 server_ftp.py[line:95] ERROR enter cmd: ls -l!
+Thu, 2016-06-23 12:26:12 server_ftp.py[line:95] ERROR enter cmd: mkdir aaa!
+Thu, 2016-06-23 12:26:14 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:26:28 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:28:00 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:29:27 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:29:38 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:35:03 server_ftp.py[line:100] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:39:19 server_ftp.py[line:100] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:39:50 server_ftp.py[line:100] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:39:59 server_ftp.py[line:100] ERROR enter cmd: mkdir b!
+Thu, 2016-06-23 12:40:05 server_ftp.py[line:100] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:40:19 server_ftp.py[line:100] ERROR enter cmd: pwd!
+Thu, 2016-06-23 12:40:41 server_ftp.py[line:100] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:40:46 server_ftp.py[line:100] ERROR enter cmd: ls -l!
+Thu, 2016-06-23 12:40:48 server_ftp.py[line:100] ERROR enter cmd: pwd!
+Thu, 2016-06-23 12:40:55 server_ftp.py[line:100] ERROR enter cmd: mkdir c!
+Thu, 2016-06-23 12:41:03 server_ftp.py[line:100] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:53:30 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:53:51 server_ftp.py[line:95] ERROR enter cmd: mkdir t!
+Thu, 2016-06-23 12:53:53 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 12:54:11 server_ftp.py[line:95] ERROR enter cmd: efrefew!
+Thu, 2016-06-23 13:01:24 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 13:04:47 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 13:07:46 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 13:47:51 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 13:50:05 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 13:58:01 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 13:59:18 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:05:33 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:06:55 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:27:20 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:30:00 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:31:22 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:50:02 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:50:50 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:57:01 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 14:59:09 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 15:16:48 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 15:16:50 server_ftp.py[line:95] ERROR enter cmd: ll!
+Thu, 2016-06-23 15:16:55 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 15:16:57 server_ftp.py[line:95] ERROR enter cmd: ls- d!
+Thu, 2016-06-23 15:17:01 server_ftp.py[line:95] ERROR enter cmd: pwd!
+Thu, 2016-06-23 15:17:07 server_ftp.py[line:95] ERROR enter cmd: ls -l!
+Thu, 2016-06-23 15:21:49 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 15:26:13 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 15:26:28 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 15:46:00 server_ftp.py[line:95] ERROR enter cmd: put store.png!
+Thu, 2016-06-23 15:54:36 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 16:11:56 server_ftp.py[line:95] ERROR enter cmd: pwd!
+Thu, 2016-06-23 16:12:50 server_ftp.py[line:95] ERROR enter cmd: pwd!
+Thu, 2016-06-23 16:18:01 server_ftp.py[line:95] ERROR enter cmd: pwd!
+Thu, 2016-06-23 16:48:15 server_ftp.py[line:95] ERROR enter cmd: hb.jpg!
+Thu, 2016-06-23 16:49:06 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:38:03 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:39:27 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:39:29 server_ftp.py[line:95] ERROR enter cmd: du!
+Thu, 2016-06-23 17:39:36 server_ftp.py[line:95] ERROR enter cmd: df!
+Thu, 2016-06-23 17:39:52 server_ftp.py[line:95] ERROR enter cmd: ls -d!
+Thu, 2016-06-23 17:39:56 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:40:16 server_ftp.py[line:95] ERROR enter cmd: ls -d!
+Thu, 2016-06-23 17:46:46 server_ftp.py[line:95] ERROR enter cmd: du!
+Thu, 2016-06-23 17:46:52 server_ftp.py[line:95] ERROR enter cmd: pwd!
+Thu, 2016-06-23 17:46:54 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:46:59 server_ftp.py[line:95] ERROR enter cmd: ls -s!
+Thu, 2016-06-23 17:47:12 server_ftp.py[line:95] ERROR enter cmd: ls -d!
+Thu, 2016-06-23 17:47:24 server_ftp.py[line:95] ERROR enter cmd: ll!
+Thu, 2016-06-23 17:47:30 server_ftp.py[line:95] ERROR enter cmd: pwd!
+Thu, 2016-06-23 17:47:36 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:47:42 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:47:46 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:47:49 server_ftp.py[line:95] ERROR enter cmd: pwd!
+Thu, 2016-06-23 17:47:53 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:48:00 server_ftp.py[line:95] ERROR enter cmd: ls -d!
+Thu, 2016-06-23 17:48:17 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:50:22 server_ftp.py[line:95] ERROR enter cmd: ls!
+Thu, 2016-06-23 17:50:42 server_ftp.py[line:95] ERROR enter cmd: ping 114.114.114.114 -c5!
