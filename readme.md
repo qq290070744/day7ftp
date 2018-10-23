@@ -11,7 +11,8 @@
   允许上传和下载文件，保证文件一致性————上传方法：put <文件名> 下载方法：get <文件名>
   文件传输过程中显示进度条
 
-  脚本目录介绍：
+脚本目录介绍：
+
   day7├── bin                                    主程序目录
   │   ├── DBInit.py                       DB初始化（1、初始化conf目录和ftp目录 2、加用户 3、删用户）
   │   ├── ftpClient.py                    ftp客户端
@@ -32,7 +33,7 @@
   │   └── xxxxx.log
   └── readme
 
-  本程序使用方法（本程序在linux系统下，以python2.7为基础开发，请在linux环境下运行）：
+本程序使用方法（本程序在linux系统下，以python2.7为基础开发，请在linux环境下运行）：
 
   一、启动ftp服务端程序
   python server_ftp
@@ -51,7 +52,6 @@
   三、使用ftp客户端程序
   python client_ftp
   执行后输入用户名和密码后可以执行命令。
-
   四，此程序需要连接mysql数据库，
   数据库名jiang
   表名userpass
@@ -64,7 +64,6 @@
   | test     | test     |    0 | 1000000 |   100 |
   +----------+----------+------+---------+-------+
   3 rows in set (0.00 sec)
-
   mysql>
 
 
